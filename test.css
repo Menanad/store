@@ -1,0 +1,9 @@
+#cards div{
+ margin: 10px 5px;
+}
+body{
+    overflow-x: hidden;
+}
+li{
+    margin:5px 15px ;
+}
